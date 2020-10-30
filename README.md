@@ -57,7 +57,9 @@ conda install -c anaconda numpy
 conda install -c anaconda scipy 
 conda install scikit-learn
 conda install -c conda-forge matplotlib
+y
 conda install -c anaconda requests
+y
 source deactivate (or just `deactivate` for win)
 ```
 
